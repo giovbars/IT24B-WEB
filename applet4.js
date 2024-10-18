@@ -64,4 +64,5 @@ class StudentList {
         this.renderStudentList(filteredStudents, containerId);
     }
 }
-;
+
+const studentList = new StudentList('applet4.json');
