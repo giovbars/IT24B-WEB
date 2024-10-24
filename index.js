@@ -11,3 +11,5 @@ class CardSearch {
         });
     }
     filterCards(query) {
+
+        const searchTerm = query.toLowerCase();
