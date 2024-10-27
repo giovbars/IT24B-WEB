@@ -11,3 +11,9 @@
             margin-top: 1rem;
             margin-left: 2rem;
         }
+         .completed{
+            text-decoration: line-through;
+            color: gray;
+        }
+
+    </style>
